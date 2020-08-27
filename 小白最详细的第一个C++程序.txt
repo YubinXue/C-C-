@@ -1,0 +1,15 @@
+#include<iostream>       //输入输出头文件
+//include表示包含   #引入头文件
+//i = input  输入
+//o = output 输出
+//stream  流
+using namespace std;			//命名空间
+//use  使用
+//namespace   命名空间
+//std = standard  标准的
+int main()			//主函数
+{
+	cout << "Hello World" << endl;    	//endl  换行      输出
+	system("pause");        //system<"pause">;   易错
+	return 0;		//返回0
+}
